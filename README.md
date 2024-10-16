@@ -1,9 +1,9 @@
 # Hello, I'm Miracle
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/miracle-akono00"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+## Introduction
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm a cybersecurity professional with an engineering background, skilled in threat analysis, and proficient in SIEM tools like Splunk. I’ve developed my expertise through recognized certifications in cybersecurity, including threat intelligence certification from ArcX. I’m passionate about defending networks and staying ahead of emerging cyber threats.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
