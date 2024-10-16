@@ -10,7 +10,6 @@ I'm a cybersecurity professional with an engineering background, skilled in thre
 Cybersecurity enthusiast with hands-on experience in SIEM tools like Splunk and Python programming. Focused on threat detection and analysis, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst while continuously advancing skills through certification.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,7 +21,6 @@ Cybersecurity enthusiast with hands-on experience in SIEM tools like Splunk and 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -46,7 +44,6 @@ Cybersecurity enthusiast with hands-on experience in SIEM tools like Splunk and 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" /> <br>
 <img src="https://img.shields.io/badge/ArcX%20Foundation%20Level%20Threat%20Intelligence%20Analyst-FF0000?style=for-the-badge&logoColor=white" /> <br>
@@ -55,5 +52,6 @@ Cybersecurity enthusiast with hands-on experience in SIEM tools like Splunk and 
 </div>
 
 ## Projects
+
 - Detection Lab
 - SOC Automation Project
