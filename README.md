@@ -20,13 +20,13 @@ Cybersecurity enthusiast with hands-on experience in SIEM tools like Splunk and 
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/VirtualBox-4D4D4D?style=for-the-badge&logo=virtualbox&logoColor=white" /> <br>
     <img src="https://img.shields.io/badge/tcpdump-4D4D4D?style=for-the-badge&logo=tcpdump&logoColor=white" /> <br>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <br>
 </div>
 
 ### Endpoint
 <div>
+    <img src="https://img.shields.io/badge/VirtualBox-4D4D4D?style=for-the-badge&logo=virtualbox&logoColor=white" /> <br>
     <img src="https://img.shields.io/badge/Microsoft%20Defender%20XDR-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
