@@ -13,7 +13,7 @@ Cybersecurity enthusiast with hands-on experience in SIEM tools like Splunk and 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Security Home Lab       | <a href="https://github.com/Akonomiracle/Home-Lab/tree/main">Network Security Home Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Akonomiracle/Network-Traffic-Analysis-using-TCPDump-and-Wireshark/tree/main">Network Traffic Analysis</a>|
 
 ## Tools
@@ -44,5 +44,6 @@ Cybersecurity enthusiast with hands-on experience in SIEM tools like Splunk and 
 
 ## Projects
 
-- <a href="https://github.com/Akonomiracle/Network-Traffic-Analysis-using-TCPDump-and-Wireshark/tree/main">Network Traffic Analysis</a>
+-  <a href="https://github.com/Akonomiracle/Home-Lab/tree/main">Network Security Home Lab</a>
+-  <a href="https://github.com/Akonomiracle/Network-Traffic-Analysis-using-TCPDump-and-Wireshark/tree/main">Network Traffic Analysis</a>
 
