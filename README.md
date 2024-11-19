@@ -36,7 +36,16 @@ Cybersecurity enthusiast with hands-on experience in SIEM tools like Splunk and 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/VirtualBox-4D4D4D?style=for-the-badge&logo=virtualbox&logoColor=white" /> <br>
+    <img src="https://img.shields.io/badge/HxD-4D4D4D?style=for-the-badge&logo=&logoColor=white" /> <br>
+    <img src="https://img.shields.io/badge/Notepad++-4D4D4D?style=for-the-badge&logo=notepadplusplus&logoColor=white" /> <br>
     <img src="https://img.shields.io/badge/Microsoft%20Defender%20XDR-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### Utility
+<div>
+    <img src="https://img.shields.io/badge/URL%20Decoder-4D4D4D?style=for-the-badge&logo=&logoColor=white" /> <br>
+    <img src="https://img.shields.io/badge/CyberChef-4D4D4D?style=for-the-badge&logo=&logoColor=white" /> <br>
+    <img src="https://img.shields.io/badge/ExifTool-4D4D4D?style=for-the-badge&logo=&logoColor=white" />
 </div>
 
 ### SIEM
