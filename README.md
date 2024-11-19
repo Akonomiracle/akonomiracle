@@ -13,8 +13,17 @@ Cybersecurity enthusiast with hands-on experience in SIEM tools like Splunk and 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Email Analysis       | <a href="https://github.com/Akonomiracle/Email-Phishing-Analysis/tree/main">Email Phishing Analysis</a>|
 | Network Security       | <a href="https://github.com/Akonomiracle/Home-Lab/tree/main">Network Security Home Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Akonomiracle/Network-Traffic-Analysis-using-TCPDump-and-Wireshark/tree/main">Network Traffic Analysis</a>|
+| Network Traffic Monitoring | <a href="https://github.com/Akonomiracle/Network-Traffic-Analysis-using-TCPDump-and-Wireshark/tree/main">Network Traffic Analysis</a>|
+| Network Analysis and Web Shell Investigation | <a href="https://github.com/Akonomiracle/Network-Analysis-and-Web-Shell-Investigation/tree/main">Network Analysis and Web Shell Investigation</a>|
+
+## Projects
+
+-  <a href="https://github.com/Akonomiracle/Email-Phishing-Analysis/tree/main">Email Phishing Analysis</a>
+-  <a href="https://github.com/Akonomiracle/Home-Lab/tree/main">Network Security Home Lab</a>
+-  <a href="https://github.com/Akonomiracle/Network-Traffic-Analysis-using-TCPDump-and-Wireshark/tree/main">Network Traffic Analysis</a>
+-  <a href="https://github.com/Akonomiracle/Network-Analysis-and-Web-Shell-Investigation/tree/main">Network Analysis and Web Shell Investigation</a>
 
 ## Tools
 
@@ -43,8 +52,5 @@ Cybersecurity enthusiast with hands-on experience in SIEM tools like Splunk and 
 <img src="https://img.shields.io/badge/Google%20AI%20Essentials-4285F4?style=for-the-badge&logo=Google&logoColor=white" /> <br>
 </div>
 
-## Projects
 
--  <a href="https://github.com/Akonomiracle/Home-Lab/tree/main">Network Security Home Lab</a>
--  <a href="https://github.com/Akonomiracle/Network-Traffic-Analysis-using-TCPDump-and-Wireshark/tree/main">Network Traffic Analysis</a>
 
