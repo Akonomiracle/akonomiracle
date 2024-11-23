@@ -56,10 +56,10 @@ Cybersecurity enthusiast with hands-on experience in SIEM tools like Splunk and 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" /> <br>
-<img src="https://img.shields.io/badge/ArcX%20Foundation%20Level%20Threat%20Intelligence%20Analyst-FF0000?style=for-the-badge&logoColor=white" /> <br>
-<img src="https://img.shields.io/badge/SC--200%3A%20Mitigate%20threats%20using%20Microsoft%20Defender%20XDR-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" /> <br>
-<img src="https://img.shields.io/badge/Google%20AI%20Essentials-4285F4?style=for-the-badge&logo=Google&logoColor=white" /> <br>
+<img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-FFD700?style=for-the-badge&logo=Google&logoColor=white" /> <br>
+<img src="https://img.shields.io/badge/ArcX%20Foundation%20Level%20Threat%20Intelligence%20Analyst-FFD700?style=for-the-badge&logoColor=white" /> <br>
+<img src="https://img.shields.io/badge/SC--200%3A%20Mitigate%20threats%20using%20Microsoft%20Defender%20XDR-FFD700?style=for-the-badge&logo=Microsoft&logoColor=white" /> <br>
+<img src="https://img.shields.io/badge/Google%20AI%20Essentials-FFD700?style=for-the-badge&logo=Google&logoColor=white" /> <br>
 </div>
 
 
