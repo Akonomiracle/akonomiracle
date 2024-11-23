@@ -57,9 +57,9 @@ Cybersecurity enthusiast with hands-on experience in SIEM tools like Splunk and 
 ## Certifications
 <div>
   <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-B8860B?style=for-the-badge&logo=Google&logoColor=white&labelWidth=300" /> <br>
+  <img src="https://img.shields.io/badge/Google%20AI%20Essentials-B8860B?style=for-the-badge&logo=Google&logoColor=white&labelWidth=300" /> <br>
   <img src="https://img.shields.io/badge/ArcX%20Threat%20Intelligence%20Analyst-B8860B?style=for-the-badge&logoColor=white&labelWidth=300" /> <br>
   <img src="https://img.shields.io/badge/SC--200%3A%20Mitigate%20threats%3A%20Microsoft%20Defender%20XDR-B8860B?style=for-the-badge&logo=Microsoft&logoColor=white&labelWidth=300" /> <br>
-  <img src="https://img.shields.io/badge/Google%20AI%20Essentials-B8860B?style=for-the-badge&logo=Google&logoColor=white&labelWidth=300" /> <br>
 </div>
 
 
