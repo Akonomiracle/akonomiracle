@@ -55,11 +55,11 @@ Cybersecurity enthusiast with hands-on experience in SIEM tools like Splunk and 
 
 
 ## Certifications
-<div>
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-B8860B?style=for-the-badge&logo=Google&logoColor=white&labelWidth=300" /> <br>
-  <img src="https://img.shields.io/badge/Google%20AI%20Essentials-B8860B?style=for-the-badge&logo=Google&logoColor=white&labelWidth=300" /> <br>
-  <img src="https://img.shields.io/badge/ArcX%20Threat%20Intelligence%20Analyst-B8860B?style=for-the-badge&logoColor=white&labelWidth=300" /> <br>
-  <img src="https://img.shields.io/badge/SC--200%3A%20Microsoft%20Defender%20XDR-B8860B?style=for-the-badge&logo=Microsoft&logoColor=white&labelWidth=300" /> <br>
+</div>
+<a href=“https://www.coursera.org/account/accomplishments/specialization/HVFPE2I1QIUJ/“><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-B8860B?style=for-the-badge&logo=Google&logoColor=white&labelWidth=300" /></a> <br>
+<a href=“https://www.coursera.org/account/accomplishments/records/T0O1EEQ89EP8/“><img src="https://img.shields.io/badge/Google%20AI%20Essentials-B8860B?style=for-the-badge&logo=Google&logoColor=white&labelWidth=300" /></a> <br>
+<a href=“https://arcx.io/verify-certificate?id=0170d500e3bea8ee1ae76ad6a1fa7d8c6bc1ed71&k=46be64cceca040e2a3ee0f8fb7745cf1/“><img src="https://img.shields.io/badge/ArcX%20Threat%20Intelligence%20Analyst-B8860B?style=for-the-badge&logoColor=white&labelWidth=300" /></a> <br>
+<a href=“https://learn.microsoft.com/api/achievements/share/en-gb/OweilateAkono-1164/B6LBL2WD?sharingId=B78BCD3BAB807FB8/“><img src="https://img.shields.io/badge/SC--200%3A%20Microsoft%20Defender%20XDR-B8860B?style=for-the-badge&logo=Microsoft&logoColor=white&labelWidth=300" /></a> <br>
 </div>
 
 
