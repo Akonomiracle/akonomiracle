@@ -41,6 +41,11 @@ Cybersecurity enthusiast with hands-on experience in SIEM tools like Splunk and 
     <img src="https://img.shields.io/badge/Microsoft%20Defender%20XDR-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <br>
+</div>
+
 ### Utility
 <div>
     <img src="https://img.shields.io/badge/URL%20Decoder-4D4D4D?style=for-the-badge&logo=&logoColor=white" /> <br>
@@ -48,10 +53,6 @@ Cybersecurity enthusiast with hands-on experience in SIEM tools like Splunk and 
     <img src="https://img.shields.io/badge/ExifTool-4D4D4D?style=for-the-badge&logo=&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <br>
-</div>
 
 ## Certifications
 <div>
